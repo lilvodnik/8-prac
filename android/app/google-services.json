@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "413571388536",
+    "project_id": "pozdnyakovaprac8",
+    "storage_bucket": "pozdnyakovaprac8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413571388536:android:a5dfd1860d2fa30f0f498d",
+        "android_client_info": {
+          "package_name": "com.example.firebase_notes_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA67MOngZMNZUqzI7LCxHXNQ39kJbYWNV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
